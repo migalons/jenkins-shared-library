@@ -1,4 +1,4 @@
-group 'se.diabol.jenkins.pipeline'
+group 'digital.malonso.jenkins.library'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'groovy'
